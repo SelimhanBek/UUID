@@ -1,7 +1,7 @@
 # Get Computer UUID Number for License
 Get UUID number for full version of CADEM Softwares
 
-### Developers:
+### Developers
     - Selimhan BEK (https://github.com/SelimhanBek)
 
 # Method
