@@ -2,7 +2,7 @@ rem #############################################################
 rem #Designed By Selimhan BEK#                                  #
 rem #07.06.2018--10:21#                                         #
 rem #############################################################
-rem #UUID Generator#          			                        #
+rem #UUID Generator#          			                #
 rem #For Software Licenses ######################################
 
 mode 68,12
